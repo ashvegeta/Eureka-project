@@ -23,8 +23,16 @@ steps for eureka client setup:
  ```
  spring web
  Mysql driver
- Spring data JPA
- 
+ Spring data JPAsta
+ Eureka client
  ```
+ 
+2. download the client as zip file in main project folder with service_name for the zip file.
+
+3. make sure to add @EnableEurekaClient and @EnableEurekaServer in both discovery and services' application.java file 
+
+4. add the application.properties for the eureka client and make sure mysql is running in your system.
+
+5. run the mnvw file for the client and open the same eureka server dashboard to see the registered service 
 
   
