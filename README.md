@@ -7,9 +7,9 @@ steps:
 
 2. navigate to the directory .
 
-3. open spring initialzr and add following dependencies
+3. open spring initialzr and add Eureka server as the dependency
 
-  1. Spring Web
-  2. Mysql Driver
-  3. Eureka server
+4. download the zip file inside the main project.
+
+5. 
   
