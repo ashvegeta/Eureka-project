@@ -23,7 +23,7 @@ steps for eureka client setup:
  ```
  spring web
  Mysql driver
- Spring data JPAsta
+ Spring data JPA
  Eureka client
  ```
  
