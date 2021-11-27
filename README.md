@@ -11,7 +11,7 @@ steps for eureka server setup:
 
 4. download the zip file inside the main project (discovery-server).
 
-5. naviagate to project/discovery-server and set the application.properties as follows.
+5. naviagate to project/discovery-server and set the application.properties as given.
 
 6. run the mvnw file and open localhost:port_no to access eureka dashboard
 
